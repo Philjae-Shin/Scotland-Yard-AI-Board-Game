@@ -17,11 +17,15 @@ In preparation for more advanced strategic planning, update the implementation o
 **Scotland Yard** is a classic detective board game where players assume the roles of detectives trying to capture Mr. X, a fugitive who moves secretly across the board. The game involves strategy, deduction, and a bit of luck. This digital version aims to capture the essence of the classic game with enhanced graphics and a modern user interface.
 
 
-- **Game Main Screen:**
+## Game Main Screen:
   ![Game Main Screen](./doc/Screenshot%20from%202024-08-25%2013-33-50.png)
   
 
-- **Game In Progress:**
+
+
+
+
+## Game In Progress:
   ![Game Map In The Game Progress](./doc/Screenshot%20from%202024-08-25%2013-34-01.png)
 
 
