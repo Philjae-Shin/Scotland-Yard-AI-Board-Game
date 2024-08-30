@@ -135,4 +135,4 @@ These resources will help you understand the codebase, the functionality of vari
 
 ---
 
-Thank you for your interest in Scotland Yard! Enjoy your game and happy coding!
+# Enjoy!!
