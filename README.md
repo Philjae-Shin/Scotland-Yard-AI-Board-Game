@@ -10,8 +10,11 @@ The implementation of an open-ended AI extension `AI`
 
 In preparation for more advanced strategic planning, update the implementation of the MiniMax algorithm, along with Alpha-Beta pruning to enhance performance by reducing the number of nodes evaluated in the game tree.
 
-## Update
+
+
+## Update for APPLE SILICON
 * [FIX FOR APPLE SILICON, when GUI crashes](applefix.md)
+
 
 
 ## About the Game
