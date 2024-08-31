@@ -8,8 +8,10 @@ The implementation of a core game component `Model`
 
 The implementation of an open-ended AI extension `AI`
 
-## 2024 Update)
 In preparation for more advanced strategic planning, update the implementation of the MiniMax algorithm, along with Alpha-Beta pruning to enhance performance by reducing the number of nodes evaluated in the game tree.
+
+## Update
+* [FIX FOR APPLE SILICON, when GUI crashes](applefix.md)
 
 
 ## About the Game
